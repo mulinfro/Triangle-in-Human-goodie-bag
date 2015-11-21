@@ -1,6 +1,7 @@
 # Triangle-in-Human-goodie-bag
 ## 收集了一些与三角概念相关的事物和知识。虽然形式和内容上差别很大，其核心有共同之处。
-### A collection of things, methods or theory that use concept of Triangle.
+
+内容列表如下:
 
 * 三方博弈
 * 金字塔结构
